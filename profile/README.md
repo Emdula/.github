@@ -43,7 +43,7 @@ the way the desk already works.
 ### Yonas
 **AI-powered sourcing**
 
-[![status](https://img.shields.io/badge/in_build-D69E2E?style=flat-square)](https://emdula.com)
+[![status](https://img.shields.io/badge/alpha-D69E2E?style=flat-square)](https://emdula.com)
 
 Define a role, find people across public sources, and keep the evidence behind every claim
 the system makes.
