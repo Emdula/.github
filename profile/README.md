@@ -32,9 +32,10 @@ works. → [realecon.emdula.com](https://realecon.emdula.com)
 
 ## Yonas &nbsp;![alpha](https://img.shields.io/badge/alpha-D69E2E?style=flat-square)
 
-**AI-powered sourcing.** Define a role, find people across public sources, and keep the evidence
-behind every claim the system makes. A white-label sourcing and recruitment workflow that carries
-a team from the first search through outreach, interview, offer and placement.
+**Not a search platform. A sourcer that delivers.** Say who you are looking for and you get back an
+evidence-ranked pool: each shown skill keeps its source, and reachability is reported separately —
+under your agency brand. Built for recruiting agencies, with an in-house HR mode being prepared.
+→ [yonas-alpha.vercel.app](https://yonas-alpha.vercel.app/)
 
 ## Veral &nbsp;![live](https://img.shields.io/badge/live-2EA44F?style=flat-square)
 
