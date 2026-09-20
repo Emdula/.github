@@ -1,6 +1,11 @@
 <div align="center">
 
-<a href="https://emdula.com"><img src="https://raw.githubusercontent.com/Emdula/.github/main/profile/banner.png" alt="Emdula — connected systems for complex operations" width="100%"></a>
+<a href="https://emdula.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emdula/.github/main/profile/banner-dark.png">
+  <img alt="Emdula — connected systems for complex operations" src="https://raw.githubusercontent.com/Emdula/.github/main/profile/banner-light.png" width="100%">
+</picture>
+</a>
 
 <br><br>
 
